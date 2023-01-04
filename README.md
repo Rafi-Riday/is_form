@@ -1,2 +1,2 @@
 #### An official member recruitment form of my College Programming club (Informatic Society, Chattogram Cantonment Public College) 🥰
-This is why no preview available for this project
+Live preview: [https://ccpcis.github.io/forms/recruitment-2022/](https://ccpcis.github.io/forms/recruitment-2022/)
